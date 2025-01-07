@@ -1,0 +1,22 @@
+@media (max-width:600px) {
+
+    .page1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .box{
+        height: 90%;
+        width: 90%;
+    }
+
+    .h61{
+        left: 10%;
+    }
+
+    .h62{
+        left: 10%;
+    }
+    
+}
